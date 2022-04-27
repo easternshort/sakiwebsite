@@ -1,0 +1,40 @@
+#main {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+}
+
+.alfa-red {
+    color: red;
+}
+
+.alfa-white {
+    color: white;
+}
+
+.gp-images {
+    border: 2px solid red;
+    padding: 10px;
+
+}
+
+.gp-images img {
+    width: 300px;
+    margin: 0px 20px;
+    box-shadow: 5px 5px black;
+
+
+}
+
+.todo-list {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+
+}
+
+.todo-list li {
+    font-weight: 100;
+}
+
+.todo-list li:nth-child(3) {
+    color: green
+}
